@@ -1,4 +1,4 @@
-## Hi there 👋
+<p align="center"><a href="https://github.com/LeviathanBMS">LeviathanBMS</a> • <a href="https://leviathan.cafe">website</a></p>
 
 <!--
 **Orangemoody/Orangemoody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
